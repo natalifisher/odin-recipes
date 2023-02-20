@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(20, 87, 19);
+    font-weight: bold;
+    background-color: rgba(204, 246, 192, 0.635);
+    text-align: center;
+    padding: 15px;
+}
+
+.background {
+    opacity: 0.5;
+    width: min-content;
+    position: fixed;
+    height: auto;
+    z-index: -1;
+    margin-top: -20px;
+}
+
+div {
+    background-color: rgba(204, 246, 192, 0.635);
+    padding: 15px;
+    ;
+}
