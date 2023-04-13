@@ -1,6 +1,6 @@
 <h1>Hi!</h1>
 
-This is a rather straightforward project where I interact and use common components of
+This is a rather straightforward project where I interact with and use common components of
 html. Things like linking to outside webpages, having some navigation links, and providing
 relevant images are a part of this project. I also went a bit beyond the guidelines 
 for the project by adding a background picture, as well as styling for the page headers and bodies. 
