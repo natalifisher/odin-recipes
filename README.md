@@ -1,4 +1,4 @@
-Hi!
+<h1>Hi!</h1>
 
 This is a rather straightforward project where I interact and use common components of
 html. Things like linking to outside webpages, having some navigation links, and providing
